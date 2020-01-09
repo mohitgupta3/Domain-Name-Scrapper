@@ -1,0 +1,11 @@
+regex
+socket 
+datetime
+time
+secrets
+random
+platform
+urllib3
+BeautifulSoup4
+validators
+tld
